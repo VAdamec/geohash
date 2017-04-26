@@ -124,5 +124,11 @@
     "latitude": 35.652832,
     "longitude": 139.839478,
     "name": "Tokyo"
+  },
+  {
+    "key": "dublin",
+    "latitude": 53.351371,
+    "longitude": -6.2718200,
+    "name": "Dublin"
   }
 ]
