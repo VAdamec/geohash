@@ -18,6 +18,12 @@
     "name": "Chicago"
   },
   {
+    "key": "oregon",
+    "latitude": 45.357222,
+    "longitude": -122.607222,
+    "name": "Chicago"
+  },
+  {
     "key": "dallas",
     "latitude": 32.7767,
     "longitude": -97.040443,
