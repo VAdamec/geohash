@@ -6,6 +6,12 @@
     "name": "Amsterdam"
   },
   {
+    "key": "ashburn",
+    "latitude": 39.04375670,
+    "longitude": -77.48749,
+    "name": "Ashburn"
+  },
+  {
     "key": "charleroi",
     "latitude": 50.4108,
     "longitude": 4.4446,
@@ -76,6 +82,12 @@
     "latitude": 48.864716,
     "longitude": 2.349014,
     "name": "Paris"
+  },
+  {
+    "key": "phoenix",
+    "latitude": 33.44838,
+    "longitude": -112.07404,
+    "name": "Phoenix"
   },
   {
     "key": "portland",
